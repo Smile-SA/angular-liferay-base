@@ -1,0 +1,22 @@
+{
+  "name": "angular-liferay-base",
+  "version": "0.0.1",
+  "main": "./dist/angular-liferay-base.js",
+  "description": "Base files for working with Angular inside Liferay portlets.",
+  "keywords": [
+    "angular",
+    "liferay",
+    "portlet"
+  ],
+  "dependencies": {
+    "angular": "^1.2"
+  },
+  "ignore": [
+    "demo",
+    "src",
+    "test",
+    ".*",
+    "Gruntfile.js"
+  ],
+  "license": "MIT"
+}

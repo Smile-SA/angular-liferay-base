@@ -1,0 +1,9 @@
+node_modules
+npm-debug.log
+tmp
+.project
+.tmp
+bower_components
+.grunt
+_SpecRunner.html
+.DS_Store

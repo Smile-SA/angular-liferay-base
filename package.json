@@ -1,7 +1,7 @@
 {
   "name": "angular-liferay-base",
   "description": "Base files for working with Angular inside Liferay portlets.",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "homepage": "https://github.com/smile-sa/angular-liferay-base",
   "author": {
     "name": "Romain Gonord",

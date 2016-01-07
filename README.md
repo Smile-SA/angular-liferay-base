@@ -1,7 +1,7 @@
 # angular-liferay-base
 
-This project aims to ease working with Angular applications into a Liferay portlets.
-It will take care of the initialization (boostrap) and expse some Liferay utils in an Angular compatible way (promiseon Liferay services or handy constants).
+This project aims to ease working with Angular applications into a Liferay portlet.
+It will take care of the initialization (boostrap) and expose some Liferay utils in an Angular compatible way (promise on Liferay services or handy constants).
 
 
 
